@@ -1,5 +1,4 @@
-import logo from "./logo.svg";
-import { Row, Col, Container, Button } from "react-bootstrap";
+import { Row, Col, Button } from "react-bootstrap";
 import "./App.css";
 import { useState } from "react";
 
